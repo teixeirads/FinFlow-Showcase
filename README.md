@@ -1,24 +1,3 @@
-  🗺️ Roadmap: Migração FinFlow Showcase
-
-  Fase 1: Infraestrutura de Vitrine (✅ Concluído)
-  Fase 2: Engine de Demonstração (✅ Concluído)
-
-  Fase 3: Marketing Técnico (The README)
-  - [ ] Passo 5: Construção do README.md de Alto Impacto $\leftarrow$ ESTAMOS AQUI
-  - [ ] Passo 6: Curadoria de Assets (Screenshots/GIFs)
-
-  ---
-
-  🚀 Passo 5: O README.md Definitivo
-
-  Abaixo, preparei o conteúdo completo para o seu README.md no repositório de Showcase. Ele foi escrito usando gatilhos mentais que recrutadores sêniores e Tech Leads
-  buscam: resolução de problemas, escolhas técnicas justificadas e tangibilidade.
-
-  Instruções:
-  1. Vá ao seu repositório Público (FinFlow-Showcase).
-  2. Edite o arquivo README.md.
-  3. Apague tudo e cole o conteúdo abaixo:
-
   <div align="center">
     <img src="assets/logo.png" width="120" alt="FinFlow Logo" />
     <h1 align="center">FinFlow 💸</h1>
