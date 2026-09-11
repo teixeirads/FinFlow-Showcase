@@ -46635,7 +46635,7 @@ o=A.cD(q.aZ(0.5),1)
 n=A.br(999)
 m=r.ax
 l=t.p
-return A.hu(j,B.bp,A.fU(!0,A.bm(A.b([new A.be(B.p5,B.py,j),new A.be(B.p4,A.bA(A.b([B.pw,B.cr,A.d2(A.aoY(A.b([i,A.cf(j,A.a2("N\xedvel 3",j,j,j,j,m==null?j:m.bR(q),j,j),B.p,j,j,new A.bx(p,j,o,n,j,j,B.L),j,j,j,B.p8,j,j,j)],l),B.Cb,4,8),1)],l),B.u,B.n,B.l,0),j),new A.be(B.Hn,A.a2("\u2726 Powered by Claude AI \u2014 respostas genu\xednas",j,j,j,j,B.mV,B.c0,j),j),A.d2(k.a9J(),1),k.a9O()],l),B.u,B.n,B.l),!0),j)},
+return A.hu(j,B.bp,A.fU(!0,A.bm(A.b([new A.be(B.p5,B.py,j),new A.be(B.p4,A.bA(A.b([B.pw,B.cr,A.d2(A.aoY(A.b([i,A.cf(j,A.a2("N\xedvel 3",j,j,j,j,m==null?j:m.bR(q),j,j),B.p,j,j,new A.bx(p,j,o,n,j,j,B.L),j,j,j,B.p8,j,j,j)],l),B.Cb,4,8),1)],l),B.u,B.n,B.l,0),j),new A.be(B.Hn,A.a2("Respostas genu\xednas",j,j,j,j,B.mV,B.c0,j),j),A.d2(k.a9J(),1),k.a9O()],l),B.u,B.n,B.l),!0),j)},
 a9J(){var s=null,r=this.f.length+1
 return new A.Bu(new A.alU(new A.atX(this),r,!0,!0,!0,s),B.hR,B.aa,!1,s,s,B.jZ,s,!1,s,0,s,s,r,B.jb,B.a4,s,s,B.Q,B.aI,s)},
 aa0(){var s=t.Jm
