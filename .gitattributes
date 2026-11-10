@@ -1,0 +1,2 @@
+# Normalize text to LF across platforms; detect binary files automatically.
+* text=auto eol=lf
